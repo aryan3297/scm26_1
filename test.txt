@@ -1,5 +1,8 @@
 i am at Amity University Bengaluru
 Btech CSE
-ece
-ee
-law
+ECE
+MGT
+BIO
+electric
+Law
+>>>>>>> master
