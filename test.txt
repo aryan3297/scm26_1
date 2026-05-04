@@ -3,3 +3,5 @@ Btech CSE
 ECE
 MGT
 BIO
+electric
+Law
