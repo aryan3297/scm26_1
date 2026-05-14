@@ -1,7 +1,9 @@
 i am at Amity University Bengaluru
 Btech CSE
-ECE
-MGT
+EE
+
 BIO
 electric
-Law
+LAW
+AIML
+Devops
